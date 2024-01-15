@@ -63,4 +63,4 @@
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamhi&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamhi&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamhi&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamhi)
