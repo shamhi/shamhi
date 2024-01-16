@@ -7,7 +7,7 @@
     <a href="mailto:alek.sandr2020@mail.ru">
       <img src="https://img.shields.io/badge/-alek.sandr2020%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://t.me/Vladimir003">
+    <a href="https://t.me/AlekGurov">
       <img src="https://img.shields.io/badge/-AlekGurov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://kwork.ru/user/shamhi">
