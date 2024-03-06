@@ -1,6 +1,7 @@
 <div align="center">
-  <div id="header">
-    <img autoplay="autoplay" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="100"/>
+  <div align="center">
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
+       alt="snake" />
   </div>
   <div align="center" id="badges">
     <h3 align="center">Contact me</h3>
