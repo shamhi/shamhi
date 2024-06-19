@@ -5,7 +5,7 @@
   </div>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shamhi&label=Profile%20Visits&style=for-the-badge" />
   <br>
-  <img src="https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/sh4mh1" alt="Telegram channel">
+  <img src="https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/sh4mh1&style=for-the-badge" alt="Telegram channel">
 </div>
 
 <div align="center" style="display: flex; align-items: center;">
