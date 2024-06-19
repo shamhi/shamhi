@@ -4,10 +4,12 @@
        alt="snake" />
   </div>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shamhi&label=Profile%20Visits&style=for-the-badge" />
+  <br>
+  <img src="https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/sh4mh1" alt="Telegram channel">
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center" style="display: flex; align-items: center;">
+  <h3>:hammer_and_wrench: Languages and Tools</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
@@ -27,10 +29,16 @@
 </div>
 
 
-### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamhi&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamhi&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamhi&theme=dark)
+<div id="stats" align="center" style="display: flex; flex-direction: column;">
+    <h2>:fire: My Stats</h2>
+    <a style="display: flex; align-items: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamhi&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+    </a>
+    <a style="display: flex;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamhi&theme=dark" style="margin-right: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamhi&theme=dark">
+    </a>
+</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
