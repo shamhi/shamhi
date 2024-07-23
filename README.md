@@ -18,7 +18,7 @@
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shamhi&label=Profile%20Visits&style=for-the-badge" />
   <br>
   <a href="https://t.me/sh4mh1">
-    <img src="https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/sh4mh1&style=for-the-badge" alt="Telegram channel">
+    <img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel">
   </a>
 </div>
 
